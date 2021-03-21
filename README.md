@@ -2,6 +2,12 @@
 
 [![CircleCI](https://circleci.com/gh/hawtio/hawtio.svg?style=svg)](https://circleci.com/gh/hawtio/hawtio)
 
+## Package is published on Github on submit workflow_dispatch
+
+See below
+
+![publish package on github](publish-package-on-github.png)
+
 ## Introduction
 
 [Hawtio](http://hawt.io) is a lightweight and modular Web console for managing Java applications.
